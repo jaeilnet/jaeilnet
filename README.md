@@ -1,6 +1,6 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20Jaeilnet&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20Jaeilnet&fontSize=90)
 
- -->
+
 <h4 align="center"> 안녕하세요! </h4> 
 <h6 align="center">개발을 잘하고 싶은 욕심쟁이 프론트엔드 개발자 주재일입니다.</h6>
 
