@@ -21,8 +21,8 @@
   <h4> ... </h4>
 
   <a href="https://github.com/jaeilnet/study"><img alt="study" src ="https://img.shields.io/badge/TTL-3884FF.svg?&style=flat&logo=GitBook&logoColor=white%link=https://github.com/jaeilnet/study"/>
-   <a href="https://www.notion.so/jaeilit/1080a3483baf41a7a3c33c7dff429141"><img alt="노션" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white$link=https://www.notion.so/1080a3483baf41a7a3c33c7dff429141"/>
-
+<!--    <a href="https://www.notion.so/jaeilit/1080a3483baf41a7a3c33c7dff429141"><img alt="노션" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white$link=https://www.notion.so/1080a3483baf41a7a3c33c7dff429141"/>
+ -->
   
 <!-- 
 ### Trophy
