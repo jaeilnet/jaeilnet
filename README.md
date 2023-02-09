@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20Jaeilnet&fontSize=90)
 
-
-<h4 align="center"> 안녕하세요! </h4> 
-<h6 align="center">개발을 잘하고 싶은 욕심쟁이 프론트엔드 개발자 주재일입니다.</h6>
-
-
 <div align="center">
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeilnet&count_bg=%23256EFF&title_bg=%23FF2390&icon=&icon_color=%23E7E7E7&title=Hello_Jaeilnet&edge_flat=false)](https://hits.seeyoufarm.com)
  -->
