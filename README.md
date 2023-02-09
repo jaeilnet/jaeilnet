@@ -9,7 +9,7 @@
  
 ###  :unlock: Skills
 
-### :Language && Platform
+### :books: Language && Platform
 
 <img alt="html5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
 <img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
@@ -33,14 +33,10 @@
 
 <!--    <a href="https://www.notion.so/jaeilit/1080a3483baf41a7a3c33c7dff429141"><img alt="노션" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white$link=https://www.notion.so/1080a3483baf41a7a3c33c7dff429141"/>
  -->
-  
-<!-- 
-### Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=jaeilnet) -->
-
-<!-- ### Git Status -->
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeilnet&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jaeilnet">
 <img src="https://github-readme-stats.vercel.app/api?username=jaeilnet&show_icons=true">
 <div>
+
+
