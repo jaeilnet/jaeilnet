@@ -6,8 +6,6 @@
 <a href="https://github.com/jaeilnet/study"><img alt="study" src ="https://img.shields.io/badge/Blog-000000.svg?&style=flat&logo=Velog&logoColor=white%link=https://github.com/jaeilnet/study"/>
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeilnet&count_bg=%23256EFF&title_bg=%23FF2390&icon=&icon_color=%23E7E7E7&title=Hello_Jaeilnet&edge_flat=false)](https://hits.seeyoufarm.com)-->
- 
-###  :unlock: Skills
 
 ### :books: Language && Platform
 
