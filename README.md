@@ -7,7 +7,7 @@
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeilnet&count_bg=%23256EFF&title_bg=%23FF2390&icon=&icon_color=%23E7E7E7&title=Hello_Jaeilnet&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
-### :books: Language && Platform
+### :books: Language & Platform
 
 <img alt="html5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
 <img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
