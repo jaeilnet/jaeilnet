@@ -33,7 +33,6 @@
  -->
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeilnet&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jaeilnet">
 <img src="https://github-readme-stats.vercel.app/api?username=jaeilnet&show_icons=true">
 <div>
 
