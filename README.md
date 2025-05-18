@@ -26,7 +26,3 @@
 </div>
 
 ![활동 그래프](https://github-readme-activity-graph.vercel.app/graph?username=jaeilnet&theme=react-dark)
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
-</div>
