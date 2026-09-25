@@ -1,18 +1,15 @@
-# 안녕하세요! 👋 프론트엔드 개발자 주재일입니다
+# AI를 활용해 더 나은 프로덕트를 만드는 것에 관심이 많은 엔지니어입니다.
 
+스타트업 서비스와 금융·공공기관 대상 솔루션을 개발하며 프론트엔드 개발자로 근무하고 있습니다.
 
-## 💻 기술 스택
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+현재는 프론트엔드를 기반으로 백엔드와 인프라까지 개발 영역을 넓혀가고 있으며,
+개인적으로 **월간 활성 사용자(MAU) 3만 이상 규모의 서비스를 혼자 개발·운영하며** 제품 개발과 운영 전반의 경험을 쌓고 있습니다.
 
-## 📊 GitHub 통계
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaeilnet&show_icons=true&theme=radical" alt="GitHub 통계" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaeilnet&theme=radical" alt="연속 기여" />
-</div>
+최근에는 AI를 단순한 개발 도구를 넘어,
+제품 개발 과정과 사용자 경험을 개선하는 데 어떻게 활용할 수 있을지 관심을 가지고 있습니다.
 
-![활동 그래프](https://github-readme-activity-graph.vercel.app/graph?username=jaeilnet&theme=react-dark)
+서비스를 직접 만들고 운영하며 쌓은 경험을 바탕으로
+프론트엔드뿐만 아니라 백엔드와 인프라까지 다양한 영역에서 기술적 역량을 넓혀가고 있습니다.
+
+장기적으로는 이러한 경험을 기반으로
+제품과 기술을 깊이 이해하고, 기술적인 방향을 이끌 수 있는 **엔지니어**가 되는 것을 목표로 꾸준히 성장하고 있습니다.
